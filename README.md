@@ -33,7 +33,7 @@ textgen_project/
 ### ✅ 1. Clone the repo & install dependencies
 
 ```bash
-git clone https://github.com/your-username/textgen_lstm.git
+git clone https://github.com/OmRajput17/Text-Generation-LSTM.git
 cd textgen_lstm
 pip install -r requirements.txt
 ```
